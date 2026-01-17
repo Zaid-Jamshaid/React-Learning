@@ -1,0 +1,22 @@
+{ 
+    "blogs" :[
+        {
+            "title": "My First Blog",
+            "body": "Why do we need it",
+            "author": "Zohash",
+            "id": 1
+        },
+        {
+            "title": "My First Blog",
+            "body": "Why do we need it",
+            "author": "Ali",
+            "id": 2
+        },
+        {
+            "title": "My First Blog",
+            "body": "Why do we need it",
+            "author": "Zosh",
+            "id": 3
+        }
+    ]
+}
